@@ -1,0 +1,7 @@
+E:\Repos\DVLD\DataAcessLayer\bin\Debug\DataAcessLayer.dll.config
+E:\Repos\DVLD\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+E:\Repos\DVLD\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+E:\Repos\DVLD\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.AssemblyReference.cache
+E:\Repos\DVLD\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+E:\Repos\DVLD\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+E:\Repos\DVLD\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
