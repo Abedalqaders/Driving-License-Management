@@ -1,28 +1,59 @@
-# Driving-License-Management
-This system is designed to digitize and automate all processes related to issuing, renewing, and managing driving licenses, making the process more efficient, secure, and accessible.
+# 🚦 Driving License Management System (Desktop Application)
 
-🔹 What Does the System Do?
- It provides a fully digital solution for handling all driving license-related transactions, eliminating paperwork delays and offering users a seamless online experience.
+This is a **desktop-based application** designed to **digitize and automate** all processes related to issuing, renewing, and managing driving licenses — making the process more **efficient, secure, and accessible**.  
 
-🌟 Key Features:
- ✅ License Issuance & Renewal – Apply for new licenses or renew existing ones with real-time tracking.
- ✅ Driving Test Management – Schedule and manage vision tests, theory exams, and practical driving tests seamlessly.
- ✅ Integrated Online Payment System – Secure and efficient payment processing for all services.
- ✅ Lost or Damaged License Replacement – Easily request a replacement for lost or damaged licenses.
- ✅ Violation & License Suspension Management – Authorities can suspend or reinstate licenses, ensuring compliance.
- ✅ International License Issuance – Apply for an international driving permit with just a few clicks.
- ✅ User & Role Management – A comprehensive system for managing staff roles and permissions, enhancing data security.
+---
 
- ✅ Advanced Validation Mechanisms:
- 🔹 Data Validation – Ensures correct input through age verification, duplicate request prevention, and mandatory field checks.
- 🔹 Security Validation – Prevents unauthorized access and fraud by enforcing role-based access, ID verification, and license suspension policies.
- 🔹 Performance Validation – Optimizes system efficiency by ensuring sequential test booking, preventing duplicate requests, and tracking license validity.
+## 🔹 What Does the System Do?  
+It provides a **Windows desktop application** for handling all driving license-related transactions, eliminating paperwork delays and offering users a seamless digital experience.  
 
-💡 Why This System Matters:
- 🚗 Saves time and effort by automating processes, reducing the need for in-person visits.
- 📄 Supports digital transformation by replacing paperwork with a fully electronic system.
- 🔒 Enhances security and transparency by tracking all transactions and ensuring data integrity.
-🛠️ Tech Stack Used:
- 💻 C# (.NET Framework / ADO.NET) – Backend development and database connectivity.
- 🗄 SQL Server – For efficient data management and storage.
- 🏛 3-Tier Architecture – Separation of data access, business logic, and UI layers for better maintainability.
+---
+
+## 🌟 Key Features  
+
+- ✅ **License Issuance & Renewal** – Apply for new licenses or renew existing ones with real-time tracking.  
+- ✅ **Driving Test Management** – Schedule and manage vision tests, theory exams, and practical driving tests.  
+- ✅ **Integrated Payment Handling** – Secure processing of payments for all services.  
+- ✅ **Lost or Damaged License Replacement** – Request a replacement quickly and easily.  
+- ✅ **Violation & License Suspension Management** – Suspend or reinstate licenses with full compliance tracking.  
+- ✅ **International License Issuance** – Apply for international driving permits within the app.  
+- ✅ **User & Role Management** – Manage staff, roles, and permissions for better security.  
+
+---
+
+## 🔐 Advanced Validation Mechanisms  
+
+- **Data Validation** – Age verification, duplicate request prevention, and required field checks.  
+- **Security Validation** – Role-based access, ID verification, and suspension enforcement.  
+- **Performance Validation** – Sequential test booking, prevention of duplicate requests, and license validity tracking.  
+
+---
+
+## 💡 Why This System Matters  
+
+- 🚗 **Time-Saving** – Reduces in-person visits by automating processes.  
+- 📄 **Paperless** – Fully digital, supporting government digital transformation.  
+- 🔒 **Secure & Transparent** – Tracks all transactions with high integrity.  
+
+---
+
+## 🛠 Tech Stack  
+
+- 💻 **C# (.NET Framework, Windows Forms, ADO.NET)** – Backend development & UI.  
+- 🗄 **SQL Server** – Database management & storage.  
+- 🏛 **3-Tier Architecture** – Clear separation of Data Access, Business Logic, and UI layers.  
+
+---
+
+## 📷 Screenshots 
+<img width="998" height="421" alt="image" src="https://github.com/user-attachments/assets/8fac76ef-b5bf-4f97-b087-418ec99f480d" />
+<img width="1829" height="771" alt="image" src="https://github.com/user-attachments/assets/973b0a74-6d1b-4e4d-a4bb-3d2933ed718a" />
+<img width="926" height="441" alt="image" src="https://github.com/user-attachments/assets/9624fdcd-b2ab-4b67-8034-bab2d7e8c2e5" />
+<img width="1827" height="761" alt="image" src="https://github.com/user-attachments/assets/478d5daa-dc6a-40ff-90c7-5b5b15703197" />
+
+
+
+
+
+
+
